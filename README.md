@@ -1,3 +1,9 @@
+# demo (project made with React + TypeScript + SASS)
+
+![Capture d’écran (24)](https://user-images.githubusercontent.com/51159780/102698116-43a01380-423b-11eb-8eb9-b11cac392f34.png)
+![Capture d’écran (25)](https://user-images.githubusercontent.com/51159780/102698112-3f73f600-423b-11eb-9eef-f0fe0e30a59f.png)
+![Capture d’écran (26)](https://user-images.githubusercontent.com/51159780/102698115-426ee680-423b-11eb-9b9a-5c2b6cb77ad1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
